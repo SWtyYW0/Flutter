@@ -1,0 +1,9 @@
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/icudtl.dat
+C:/projects/flutter/desktop_app/build/windows/runner/Release/flutter_windows.dll
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/projects/flutter/desktop_app/build/windows/runner/Release/data/app.so
