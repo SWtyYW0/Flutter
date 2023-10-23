@@ -11,11 +11,11 @@ class ExampleTheme extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       // theme: ThemeData.light(),
-      // theme: ThemeData.dark(),
+      theme: ThemeData.dark(),
       // theme: ThemeData(
       //   brightness: Brightness.dark,
       // ),
-      theme: basicTheme(),
+      // theme: basicTheme(),
       home: HomeScreen(),
     );
   }

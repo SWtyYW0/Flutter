@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "ros_zhunussov_madi" "\0"
+            VALUE "FileDescription", "ros_1IK" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "ros_zhunussov_madi" "\0"
+            VALUE "InternalName", "ros_1IK" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "ros_zhunussov_madi.exe" "\0"
-            VALUE "ProductName", "ros_zhunussov_madi" "\0"
+            VALUE "OriginalFilename", "ros_1IK.exe" "\0"
+            VALUE "ProductName", "ros_1IK" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
