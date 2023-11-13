@@ -15,7 +15,7 @@ class AnimationPage extends StatelessWidget {
       body: Column(
         children: [
           Center(
-            child: Lottie.asset('assets/animations/coin.json')
+            child: Lottie.asset('assets/animations/android.json')
           )
         ],
       ),
